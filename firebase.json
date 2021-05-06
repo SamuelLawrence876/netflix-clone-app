@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "y",
+    "site": "netflix-clone-samuel",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
