@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "y",
+    "public": "deployment",
     "site": "netflix-clone-samuel",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
